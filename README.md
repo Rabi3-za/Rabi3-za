@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi, I'm Muhammad Rabi Zayat 👋
+
+- 🔭 I’m currently working on Flutter android,ios
+- 👯 I’m looking to improving my skills as a software engineer.
+- 💬 Ask me about Flutter, dart, c++, HTML, CSS, JavaScribt
+- 📫 How to reach me: zayatrabi@gmail.com
 
 <!--
 **Rabi3-za/Rabi3-za** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
